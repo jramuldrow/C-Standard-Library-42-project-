@@ -1,4 +1,3 @@
-# 42-libft-
-100% passes all of the 42 testing.
-This a project done in 42 code school. 
-
+42 is an innovative engineering and programming college that offers rigorous, industry-leading education in a professional environment. Our program is designed to prepare students for the workplace using an instructional design that means students learn skills for the digital world and for the technology industry. The school primarily focus on the computer programming language C.
+The school does not have any professors. The training is inspired by new modern ways to teach which include peer-to-peer pedagogy and project-based learning in groups. 
+![image](https://user-images.githubusercontent.com/48972362/111393988-0e0e9900-8677-11eb-80cb-4e9e9173e5b4.png)
